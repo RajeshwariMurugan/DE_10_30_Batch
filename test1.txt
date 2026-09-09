@@ -1,1 +1,23 @@
 Tuesday -> 8/9/2026
+
+
+git --> whether git installed or not
+
+git clone url --> copy the repo
+
+git log --> history
+
+git status --> checking status of local folder 
+
+config 
+-----
+git config --global user.name "your username"
+git config --global user.email "your email"
+
+3 important commands for local to remote
+============================================
+git add filename.extension
+git commit -m "msg"
+git push origin main
+
+=============================
