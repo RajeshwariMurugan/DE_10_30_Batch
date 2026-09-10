@@ -1,2 +1,0 @@
-
-The Git workflow represents the standard cycle of tracking, staging, committing, and sharing code changes. Depending on context, a "Git working flow" refers either to the local lifecycle of a single file (the three Git zones) or a team-wide collaboration strategy (like Feature Branching or Gitflow)
