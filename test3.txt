@@ -1,0 +1,10 @@
+Wednesday 
+
+
+echo welcome goodmorning > test1.txt
+git init
+git add test1.txt
+git commit -m "added test1 file"
+git branch -M main
+git remote add origin https://github.com/RajeshwariMurugan/DE_Batch.git
+git push origin main
