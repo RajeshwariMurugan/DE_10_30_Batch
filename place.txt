@@ -1,0 +1,1 @@
+place:Madurai To print "Hello, World!" in Python, you only need a single line of code: [1] (https://www.lenovo.com/us/en/glossary/hello-world/?srsltid=AfmBOoox6L9V_o8ju3vntSwY8C6EEab61E1T8FDNr7Kfv8LqJUxHqUgB)pythonprint("Hello, World!") 
